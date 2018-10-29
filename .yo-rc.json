@@ -1,0 +1,38 @@
+{
+  "generator-jhipster": {
+    "applicationType": "gateway",
+    "gitCompany": "",
+    "baseName": "IntApiGateway",
+    "packageName": "com.elmapigateway",
+    "packageFolder": "com/elmapigateway",
+    "serverPort": 8080,
+    "serviceDiscoveryType": "eureka",
+    "authenticationType": "jwt",
+    "uaaBaseName": "../uaa",
+    "cacheProvider": "hazelcast",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "mssql",
+    "searchEngine": false,
+    "enableSwaggerCodegen": false,
+    "messageBroker": false,
+    "buildTool": "maven",
+    "useSass": false,
+    "clientPackageManager": "npm",
+    "testFrameworks": [],
+    "enableTranslation": false,
+    "nativeLanguage": "en",
+    "languages": [
+      "en"
+    ],
+    "clientFramework": "angularX",
+    "jhiPrefix": "jhi",
+    "jhipsterVersion": "5.5.0",
+    "jwtSecretKey": "ZWFmNmZlZGUxNDI3MmM1OTNkN2IwMzYyM2Q4OTEyZDM2NGFkOTlhMzRkYmE0YzQ0MjlkOGI1ZDE2ZjE5ZGUyYzU3MjZiNzBiYTM2MWRkZjE1Mjc2ZjNhNzBlY2ViYmI2YTZmNDMzYmQ1MjQxY2NkNjllOWJmZDEzY2QxOGQ3ODk="
+  },
+  "git-provider": "GitHub",
+  "git-company": "rashad79",
+  "repository-name": "int-api-gateway"
+}
